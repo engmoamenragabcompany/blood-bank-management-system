@@ -1,5 +1,5 @@
 .banner {
-  background-image: url(../images/banner2.jpg);
+  background-image: url(../images/banner.jpg);
   background-size: cover;
   background-position: center center;
 }
@@ -7,32 +7,16 @@
 .join h1 {
   color: #bf0603;
 }
-.btn-blue{background-color: #011427;color: #fff;}
-.btn-blue:hover{background-color: #011d2d;color: #fff;}
 
 .join i.mr-2 {
   color: #bf0603;
 }
 
-
-.navbar-light .navbar-nav .nav-link {
-    color: rgb(3 47 73 / 62%);
-}
-
-
-
-.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: #011427;
-}
 .join p.my-4 {
-  color: #0114277a;
+  color: rgba(3, 47, 73, 0.6);
   line-height: 30px;
 }
 
 .join h4 {
-  color: #011427;
-}
-.myshadow{box-shadow: rgb(0 0 0 / 8%) 0px 4px 12px;}
-@media screen and (max-width: 767.9px) {
-.join img{display: none !important;}
+  color: #032f49;
 }
